@@ -7,13 +7,6 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nMatthew Trevino is a Psychology major and a Statistics minor at California State University, Monterey Bay."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Matthew Trevino",
@@ -26,5 +19,12 @@
     "title": "Matthew Trevino",
     "section": "Experience",
     "text": "Experience\nPeer Mentor/Ambassador | California State University, Monterey Bay | January 2024 - present\nSandwich Artist | Assistant Manager | March 2015 - May 2023\nChess Tutor | January 2021 - April 2023\nMathematics Tutor | January 2013 - May 2015, January 2021 - May 2023"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
