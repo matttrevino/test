@@ -1,4 +1,4 @@
-project:
+project: Chess Opening Win Rates
   type: website
   output-dir: docs
 
