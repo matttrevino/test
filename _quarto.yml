@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Matthew Trevino's ePortfolio"
-  navbar:
+  navbar: Chess Project Final hehe.qmd
     left:
       - href: index.qmd
         text: "Home"
