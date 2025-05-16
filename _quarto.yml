@@ -4,12 +4,12 @@ project:
 
 website:
   title: "Matthew Trevino's ePortfolio"
-  navbar: Chess Project Final hehe.qmd
+  navbar: Chess_proj_final.qmd
     left:
-      - href: index.qmd
-        text: "Home"
-      - href: about.qmd
-        text: "About Me"
+      - href: index2.qmd
+        text: 
+      - href: about2.qmd
+        text: 
 
 format:
   html:
