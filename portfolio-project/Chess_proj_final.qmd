@@ -25,6 +25,7 @@ To clean the data, I ensured that I would only analyze ranked games instead of c
 
 ```{r, Read and Filter Data}
 #| echo: false
+#| include: false
 #reading data in and checking stats, plus filtering by rated only
 chess %>%
   count(opening_code)
