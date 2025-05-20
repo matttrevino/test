@@ -12,9 +12,7 @@ about:
       href: https://github.com
 ---
 
-
 Matthew Trevino is a Psychology major and a Statistics minor at [California State University, Monterey Bay](http://csumb.edu/mathstat).
-
 
 ## Education
 
