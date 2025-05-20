@@ -1,0 +1,36 @@
+---
+title: "Matthew Trevino - ePortfolio"
+about:
+  template: jolla
+  image: IMG_3783.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+
+Matthew Trevino is a Psychology major and a Statistics minor at [California State University, Monterey Bay](http://csumb.edu/mathstat).
+
+
+## Education
+
+California State University, Monterey Bay \| Monterey, CA
+
+B.A in Psychology \| Expected December 2025
+
+Cuesta College \| San Luis Obispo, CA\
+A.A. in Psychology \| 2023
+
+## Experience
+
+Peer Mentor/Ambassador \| California State University, Monterey Bay \| January 2024 - present
+
+Sandwich Artist \| Assistant Manager \| March 2015 - May 2023
+
+Chess Tutor \| January 2021 - April 2023
+
+Mathematics Tutor \| January 2013 - May 2015, January 2021 - May 2023

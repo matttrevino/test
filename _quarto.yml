@@ -1,16 +1,18 @@
-project: Chess Opening Win Rates
+project:
   type: website
   output-dir: docs
 
 website:
   title: "Matthew Trevino's ePortfolio"
-  navbar: Chess_proj_final.qmd
+  navbar:
     left:
-      - href: index2.qmd
-        text: 
-      - href: about2.qmd
-        text: 
-
+      - href: index.qmd
+        text: "Home"
+      - href: about.qmd
+        text: "About"
+      - href: portfolio-project/Chess_proj_final.qmd
+        text: "Chess Project"
+        
 format:
   html:
     theme: cosmo
