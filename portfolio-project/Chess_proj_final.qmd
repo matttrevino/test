@@ -24,10 +24,11 @@ chess <- read_csv("chess_games.csv")
 To clean the data, I ensured that I would only analyze ranked games instead of casual and ranked games. Afterwards, I filtered the games based on opening and then mutated the variables to ensure that all the openings that include the text would be seen. This was to ensure that games with variations attached, like "Nimzo-Larsen Attack \_\_\_\_\_ Variation" would still be included under the Nimzo-Larsen Attack umbrella. I then summarized the variables I wanted into new data frames to analyze the research questions.
 
 ```{r, Read and Filter Data}
+#| echo: false
 #reading data in and checking stats, plus filtering by rated only
 chess %>%
   count(opening_code)
-#n_distinct(chess$opening_code)
+n_distinct(chess$opening_code)
 chess_rated <- chess %>% 
   filter(rated == "TRUE")
 
